@@ -72,4 +72,4 @@ for line in location_file:
         print("Pausing for a bit...")
         time.sleep(5)
 
-print("Run geo.py to read data from the database for visualizing it on a map. Have fun!")
+print("Run geojs.py to read data from the database for visualizing it on a map. Have fun!")
